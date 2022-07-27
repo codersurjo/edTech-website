@@ -305,3 +305,20 @@ button{
     line-height: 60px;
     color: #FFFFFF;
 }
+.f_logo ul li a {
+	width: 40px;
+	height: 40px;
+	background: #242424;
+	border-radius: 50px;
+	font-size: 18px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 50px;
+    margin: 0 7px;
+    margin-top: 15px;
+    transition: 0.2s;
+}
+.f_logo ul li:hover a{
+    opacity: 0.7;
+}
