@@ -1,0 +1,264 @@
+@media all and (max-width:1399px){
+    .navbar {
+        padding: 20px 0;
+    }
+    .nav-link {
+        font-size: 16px;
+        padding: 0 20px !important;
+    }
+    .logo {
+        font-size: 33px;
+    }
+    .menu_register a {
+        font-size: 16px;
+        padding: 9px 33px;
+    }
+    .slider_caption h1 {
+        font-size: 55px;
+        line-height: 59px;
+    }
+    .section_padding {
+        padding: 100px 0;
+    }
+    .text h4 {
+        font-size: 21px;
+    }
+    .text p {
+        font-size: 14px;
+    }
+    .text span {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .section_heading h2 {
+        margin-bottom: 11px;
+        font-size: 38px;
+        line-height: 60px;
+    }
+    .left h3 {
+        font-size: 38px;
+        line-height: 50px;
+        margin-bottom: 12px;
+    }
+    .accordion-button {
+        font-size: 18px;
+        padding: 17px 40px;
+    }
+    .logo_all a img {
+        width: 100px;
+    }
+    .ready_top {
+        margin-top: 100px;
+    }
+}
+
+
+@media all and (max-width:1199px){
+    .nav-link {
+        font-size: 15px;
+        padding: 0 13px !important;
+    }
+    .navbar-expand-lg .navbar-nav {
+        flex: 0 0 81% !important;
+        justify-content: center !important;
+    }
+    .slider_caption h1 {
+        font-size: 46px;
+        line-height: 51px;
+    }
+    .slider_caption p {
+        font-size: 15px;
+        line-height: 25px;
+        margin: 15px auto;
+    }
+    .slider_caption a {
+        width: 172px;
+        height: 49px;
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .section_padding {
+        padding: 70px 0;
+    }
+    .section_heading h2 {
+        margin-bottom: 11px;
+        font-size: 36px;
+        line-height: 39px;
+    }
+    .view a {
+        padding: 13px 33px;
+        font-size: 16px;
+    }
+    .ready_top {
+        margin-top: 70px;
+    }
+}
+
+@media all and (max-width:991px){
+    .ready_top_non2{
+        display: none;
+    }
+    .register1 {
+        display: block;
+    }
+    .navbar-toggler {
+        border: none !important;
+    }
+    .slider_caption p {
+        max-width: 493px;
+    }
+    .single_item.d-lg-flex {
+        display:flex ;
+    }
+    .ready_to_join {
+        padding: 55px;
+        text-align: center;
+    }
+    .right a {
+        padding: 10px 29px;
+        font-size: 18px;
+        margin-top: 22px;
+    }
+    .accordion-button {
+        font-size: 17px;
+        padding: 13px 24px;
+    }
+    .accordion-body p {
+        font-size: 15px;
+        padding: 3px 6px;
+    }
+    .f_logo a {
+        font-size: 32px;
+    }
+    .footer_content p,
+    .footer_content p a {
+        font-size: 14px;
+    }
+    .section_padding {
+        padding: 50px 0;
+    }
+    .ready_top {
+        margin-top: 50px;
+    }
+    .section_heading h2 {
+        margin-bottom: 8px;
+        font-size: 30px;
+        line-height: 39px;
+    }
+    .accordion-body p {
+        font-size: 15px;
+        padding: 3px 6px;
+        line-height: 20px;
+    }
+    .slider_caption h1 {
+        font-size: 40px;
+        line-height: 44px;
+        max-width: 335px;
+    }
+    .menu_3{
+        display: none;
+    }
+}
+
+@media all and (max-width:767px){
+    .accordion-button {
+        font-size: 14px;
+        padding: 13px 24px;
+    }
+    .accordion-body p {
+        font-size: 13px;
+        padding: 3px 6px;
+        line-height: 20px;
+    }
+    .slider_caption h1 {
+        font-size: 34px;
+        line-height: 36px;
+        max-width: 322px;
+    }
+    .slider_caption p {
+        max-width: 423px;
+        line-height: 21px;
+        margin: 10px;
+    }
+    .section_heading h2 {
+        margin-bottom: 1px;
+        font-size: 25px;
+    }
+    .section_heading p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .text h4 {
+        font-size: 19px;
+        line-height: 14px;
+    }
+    .left h3 {
+        font-size: 32px;
+        line-height: 36px;
+        margin-bottom: 9px;
+    }
+    .left p {
+        font-size: 14px;
+        line-height: 22px;
+    
+    }
+    .logo {
+        font-size: 23px;
+    }
+    .menu_register a {
+        font-size: 14px;
+        padding: 7px 25px;
+    }
+
+}
+
+@media all and (max-width:575px){
+    .slider_caption h1 {
+        font-size: 22px;
+        line-height: 26px;
+        max-width: 284px;
+    }
+    .slider_caption p {
+        max-width: 227px;
+        line-height: 18px;
+        margin: 10px auto;
+        font-size: 14px;
+    }
+    .slider_caption a {
+        width: 145px;
+        height: 41px;
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .carousel-item img {
+        height: 300px;
+        object-fit:cover ;
+    }
+    .single_item.d-lg-flex {
+        display: block;
+    }
+    .image {
+        max-width: 100%;
+    }
+    .text{
+        padding: 0;
+        max-width: 100%;
+        margin-top: 30px;
+    }
+    .ready_to_join {
+        padding: 30px;
+        text-align: center;
+    }
+    .left h3 {
+        font-size: 25px;
+    }
+    .accordion-button {
+        font-size: 14px;
+        padding: 13px 24px;
+        line-height: 22px;
+    }
+    .f_logo a {
+        font-size: 29px;
+    }
+
+}

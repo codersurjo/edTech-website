@@ -173,10 +173,11 @@ a:hover{
 .image img{
     width: 100%;
 }
-.text{
-    flex: 0 0 70%;
+.text {
+	flex: 0 0 70%;
 	max-width: 70%;
-    margin-left: 25px;
+	padding-left: 25px;
+	box-sizing: border-box;
 }
 .text h4{
     font-style: normal;
@@ -284,7 +285,8 @@ button{
     margin: 0 20px;
 }
 .footer_content{
-    width: 321px;
+    max-width: 321px;
+    width: 100%;
     margin: 0 auto;
 }
 .footer_content p, .footer_content p a{
