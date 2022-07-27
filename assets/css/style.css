@@ -217,3 +217,40 @@ a:hover{
 .view a:hover{
     opacity: 0.7;
 }
+.ready_to_join{
+    padding: 80px;
+    background: #289BDE;
+    border-radius: 5px;
+    align-items: center;
+}
+.ready_top{
+    margin-top: 100px;
+   
+}
+.left h3{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 60px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+.left p{
+    max-width: 520px;
+    margin: 0 auto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #F4F4F4;
+}
+.right a{
+    padding: 13px 33px;
+    font-size: 20px;
+    line-height: 30px;
+    background: #FFF;
+    border: 1px solid #FFF;
+    border-radius: 5px;
+    display: inline-block;
+    transition: 0.2s;
+    color: #289BDE;
+}
