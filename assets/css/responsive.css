@@ -95,9 +95,6 @@
 }
 
 @media all and (max-width:991px){
-    .ready_top_non2{
-        display: none;
-    }
     .register1 {
         display: block;
     }
